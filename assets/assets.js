@@ -101,7 +101,7 @@ export const workData = [
     title: "Frontend project",
     description: "Web Design",
     bgImage: "/work-1.png",
-    link: "https://mern-crash-course-v0ot.onrender.com/",
+    link: "https://mern-crash-course-v0ot.onrender.com",
   },
   {
     title: "Cloned Netflix",
@@ -124,6 +124,7 @@ export const workData = [
     title: "UI/UX designing",
     description: "UI/UX Design",
     bgImage: "/work-4.png",
+    link: "#top",
   },
 ];
 
