@@ -100,13 +100,13 @@ export const workData = [
   {
     title: "Frontend project",
     description: "Web Design",
-    bgImage: "/work-1.png",
+    bgImage: "/product-store-webapp.png",
     link: "https://mern-crash-course-v0ot.onrender.com",
   },
   {
     title: "Cloned Netflix",
     description: "Complex Webpage",
-    bgImage: "/work-2.png",
+    bgImage: "/netflex-clone-webapp.png",
     link: "https://netflix-clone-7wll.onrender.com/",
   },
   {
@@ -123,7 +123,7 @@ export const workData = [
   {
     title: "UI/UX designing",
     description: "UI/UX Design",
-    bgImage: "/work-4.png",
+    bgImage: "/work-1.png",
     link: "#top",
   },
 ];
