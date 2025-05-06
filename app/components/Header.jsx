@@ -28,13 +28,13 @@ const Header = () => {
       whileInView={{y: 0, opacity: 1}}
       transition={{duration: 0.6, delay: 0.3}}
       className='text-3xl sm:text-6xl lg:text-[66px] font-ovo'>
-        full-stack web developer based in Hong Kong.
+        I am a web developer based in Hong Kong.
       </motion.h1>
       {/* <p className='max-w-2xl mx-auto font-ovo'>
         I am a frontend developer from California, USA with 10 years of experience in multiple companies like Microsoft, Tesla and Apple.
       </p> */}
       <p className='max-w-2xl mx-auto font-ovo'>
-        I am a technology enthusiast, passionate about new technology, have done a few projects with the use of html, css, JavaScript, React JS, Node.Js, different types of databases, etc. <br/>
+        I am a tech enthusiast, passionate about new technology, have done a few projects with the use of html, css, JavaScript, React JS, Node.Js, different types of databases, etc. <br/>
         Scroll down below to learn more about me!
       </p>
 
