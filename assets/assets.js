@@ -45,6 +45,7 @@ import mysql_logo from "./mysql-logo-edit.png";
 import postgresql_logo from "./postgresql-logo-80x80.png";
 import postgresql_name_logo from "./postgresql-name-logo-80x80.png";
 import microsoft_logo from "./microsoft-logo.png";
+import react_logo from "./react.svg";
 
 export const assets = {
   user_image,
@@ -94,6 +95,7 @@ export const assets = {
   postgresql_logo,
   postgresql_name_logo,
   microsoft_logo,
+  react_logo,
 };
 
 export const workData = [
@@ -162,7 +164,7 @@ export const infoList = [
     icon: assets.code_icon,
     iconDark: assets.code_icon_dark,
     title: "Languages",
-    description: "HTML, CSS, JavaScript React Js",
+    description: "HTML, CSS, JavaScript, React",
   },
   {
     icon: assets.edu_icon,
@@ -188,4 +190,5 @@ export const toolsData = [
   // assets.figma,
   assets.microsoft_logo,
   // assets.git,
+  assets.react_logo,
 ];

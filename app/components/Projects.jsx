@@ -24,7 +24,7 @@ const Projects = ({isDarkMode}) => {
         My Projects</motion.h2>
 
       <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-ovo'>
-        Welcome to my web development protfolio! <br />Expolore a collect of projects showcasing my experties in front-end development. <br />Click the green arrow button to explore more!</p>
+        Welcome to my web development protfolio! <br />Explore a collect of projects showcasing my full-stack web development skills. <br />Click the green arrow button to explore more!</p>
 
       <div className='grid grid-cols-[repeat(auto-fit,_minmax(200px,_1fr))] my-10 gap-5 dark:text-gray-700'>
         {workData.map((project, index, key)=>(
