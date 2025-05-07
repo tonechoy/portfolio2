@@ -28,7 +28,7 @@ const About = ({isDarkMode}) => {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.8 }}
         className='flex-1'>
-          <p className='mb-10 max-w-2xl font-ovo'>I was once a film-audio editor, and with all different experiences in different fields, I believe I can adapt to new enviorment very quickly, learn fast and always eager for new knowledge. </p>
+          <p className='mb-10 max-w-2xl font-ovo'>Result driven professional with 7+ years of experience in production position. Seeking to transition to the IT industry and utilize my excellent problem-solving skills, ability to learn fast, and good interpersonal skills to help others and contribute to the society. </p>
 
           {/* I am an experienced Frontend Developer with over a decade of professional expertise in the field. Throughout my career, I have had the privilege of collaborating with prestigious organizations, contributing to their success and growth. */}
 
